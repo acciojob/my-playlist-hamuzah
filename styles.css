@@ -10,4 +10,8 @@ body{
 #li{
 	background-color:white;
 }
-
+.player_one{
+	text-align:center;
+	border-radius:1px;
+	padding:1px;
+}
